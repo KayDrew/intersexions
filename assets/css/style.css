@@ -3,7 +3,7 @@
 
 body {
     font-family: 'Alegreya Sans', sans-serif;
-    margin-bottom: 300px;
+    background-color: rgba(0,0,0,0.1);
 }
 
 html {
@@ -85,7 +85,14 @@ background: orange;
 }
 
 
+.content div{
 
+border-radius: 10px;
+margin: 15px;
+padding:15px;
+box-shadow: 1px 1px 1.5px 1.5px grey;
+background: rgb(245, 207, 56);
+}
 
 
 
